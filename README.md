@@ -1,4 +1,4 @@
-# plsql-interview-preparation
+# plsql
 This repository contains PL/SQL queries, procedures, triggers for interview preparation.
 
 ## Topics Covered
