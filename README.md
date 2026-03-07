@@ -8,6 +8,8 @@ This repository contains PL/SQL queries, procedures, triggers for interview prep
 -Stored Procedures
 -Functions
 -Triggers
+-cursors
+
 
 ## Tools Used
 -Oracle SQL
